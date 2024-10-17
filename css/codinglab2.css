@@ -1,0 +1,13 @@
+#title h1 {
+    text-align: center;  
+    color: #b0b0f9;
+  }
+  
+  #recipe h2 {
+      color: #e6ee86;
+    }
+    
+  .recipe-image {
+    max-width: 60%;
+    margin:0 auto 20px auto;
+  }
