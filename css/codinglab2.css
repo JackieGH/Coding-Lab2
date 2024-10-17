@@ -19,10 +19,9 @@
     
 p {
         max-width: 50%;
-        text-align: center;
+        text-align: justify;
     }
 
-  #span
-  .highlight {
+  #span .highlight {
       color: #00FF7F; 
   }
