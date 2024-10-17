@@ -1,9 +1,12 @@
 #title {
-  background-color: ##FCFBF4;
+  background-color:##FCFBF4;
 }
 h1 {
-    font-weight: bold;
-    font-size: 3rem;
-    line-height: 1.5;
-    color: #CCCCFF;
+    color:#CCCCFF;
+}
+
+#recipe {
+  h2{
+    color:#e6ee86
+  }
 }
