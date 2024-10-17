@@ -1,7 +1,6 @@
-#title {
-  background-color: #f2efdffc;
-} 
-  h1 {
+background-color: #f2efdffc;
+
+#title  h1 {
     text-align: center;  
     color: #86aeee;
   }
@@ -14,4 +13,9 @@
     max-width: 30%;
     margin:0 auto 20px auto;
     border-radius: 10%;
+  }
+
+  #span
+  .highlight {
+      color: #00FF7F; 
   }
