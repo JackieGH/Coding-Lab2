@@ -1,12 +1,13 @@
-#title {
-  background-color:##FCFBF4;
-}
-h1 {
-    color:#CCCCFF;
+#title h1 {
+  text-align: center;  
+  color: #CCCCFF;
 }
 
-#recipe {
-  h2{
-    color:#e6ee86
+#recipe h2 {
+    color: #e6ee86;
   }
+  
+.recipe-image {
+  max-width: 50 %;
+  margin: 20 px;
 }
