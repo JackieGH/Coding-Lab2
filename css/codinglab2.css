@@ -3,21 +3,23 @@
     color: #86aeee;
   }
 
+#recipe h2 {
+      color: #fce00e;
+    }
+
 .content-wrapper {
     max-width: 80%
     margin: 0 auto; 
-}
-  #recipe h2 {
-      color: #fce00e;
     }
     
   .recipe-image {
-    max-width: 50%;
-    border-radius: 10%;
+      max-width: 50%;
+      border-radius: 10%;
   }
-    p {
+    
+p {
+        max-width: 50%;
         text-align: center;
-        margin:0 auto;
     }
 
   #span
